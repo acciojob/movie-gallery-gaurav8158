@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.row{
+	background-color:blanchedalmond;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+img{
+	margin:1px;
+	height:50px;
+	width:50px;
+}
